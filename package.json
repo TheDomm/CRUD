@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TheDomm/llDommll#readme",
   "devDependencies": {
-    "http-server": "^13.0.2"
+    "http-server": "^13.0.2",
+    "jest": "^27.2.5"
   }
 }
